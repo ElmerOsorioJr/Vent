@@ -1,0 +1,42 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  font-family: 'Oswald', sans-serif;
+}
+img{
+  height: 200px;
+}
+body {
+  background-color: #e60000;
+  text-align: center;
+}
+
+.hide {
+  display: none;
+}
+.hide2 {
+  display: none;
+}
+h2 {
+  margin-top: 30%;
+}
+ {
+  display: none;
+}
+.hide3 {
+  display: none;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+#entries{
+  width: 70%;
+  border: solid 2px white;
+  margin: 0 auto;
+}
+
+#entries span{
+  font-size: 20px;
+}
